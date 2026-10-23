@@ -11,7 +11,7 @@ Hi, I'm Dinesh Singh 👋<br><br>🎓 B.Tech Computer Science Engineering Studen
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+</div> 
  <br><br>📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=dineshsinghco15-dotc&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=dineshsinghco15-dotc&theme=dark&hide_border=false)<br/>
